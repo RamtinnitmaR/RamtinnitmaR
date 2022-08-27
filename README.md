@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RamtinnitmaR
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python,Cython
+- 🌱 I’m currently learning Python and SQL
 - 📫 ramtin.va@gmail.com
 
 <!---
